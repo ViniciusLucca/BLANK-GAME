@@ -36,3 +36,5 @@ if (keyboard_check_pressed(vk_space)) || (keyboard_check_pressed(ord("E"))){
 	_inst.direction = direction;
 	_inst.image_angle = direction;
 }
+//comentário inútil
+//speed = 9
