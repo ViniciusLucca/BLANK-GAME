@@ -1,6 +1,6 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-
+//comentário
 //movimento vertical
 if (keyboard_check(vk_up) || keyboard_check(ord("W"))){
 	speed = 3.4;	
